@@ -1,0 +1,12 @@
+float64 joint1_position
+float64 joint2_position
+float64 joint3_position
+float64 joint1_velocity
+float64 joint2_velocity
+float64 joint3_velocity
+geometry_msgs/Point ee_pos
+float64 gripper_position
+bool is_stowed
+bool is_tracking
+bool grasping_object
+string trajectory_mode
