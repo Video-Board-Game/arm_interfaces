@@ -1,4 +1,5 @@
 geometry_msgs/Point goal
+float64 alpha
 float64 movement_time
 float64 tolerance
 string trajectory_mode
